@@ -26,10 +26,8 @@ Assim que tivermos um MVP da tela estilizada, vamos começar a colocar os compor
 
 Os repositórios públicos dos educandos são:
 
-Davi: https://github.com/zanotta23/InsigniaPaq
-
-Peto: https://github.com/Petoteta/Validacao-Insignias
-
-Bernardo: (ToDo)
+- [Davi](https://github.com/zanotta23/InsigniaPaq)
+- [Peto](https://github.com/Petoteta/Validacao-Insignias)
+- [Bernardo](https://github.com/Bernardo-furtado/projeto-lista-de-compras)
 
 Mentor: [Thiago Cerutti](https://github.com/thcerutti)
